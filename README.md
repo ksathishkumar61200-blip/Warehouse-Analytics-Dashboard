@@ -162,8 +162,3 @@ warehouse-analytics-dashboard
 
 ---
 
-
-
-LinkedIn: Add your LinkedIn profile link
-
-GitHub: Add your GitHub profile link
