@@ -73,7 +73,7 @@ This page focuses on inventory trends and demand forecasting.
 - Inventory trends by category
 - Turnover ratio analysis by warehouse zone
 
-![Inventory and Demand Analysis](Screenshots/inventory_demand_analysis.png)
+![Inventory and Demand Analysis](Warehouse_Analytics_Dashboard/Screenshots/inventory_demand_analysis.png)
 
 ---
 
@@ -89,7 +89,7 @@ This page analyzes warehouse operations and cost-related metrics.
 - Layout efficiency evaluation
 - Operational performance by warehouse zone
 
-![Warehouse Cost and Operations](Screenshots/warehouse_cost_operations.png)
+![Warehouse Cost and Operations](Warehouse_Analytics_Dashboard/Screenshots/warehouse_cost_operations.png)
 
 ---
 
@@ -105,7 +105,7 @@ This page converts analytical findings into business recommendations.
 - Business impact assessment
 - Product-level recommendations
 
-![Business Insights and Recommendations](Screenshots/business_insights_recommendations.png)
+![Business Insights and Recommendations](Warehouse_Analytics_Dashboard/Screenshots/business_insights_recommendations.png)
 
 ---
 
