@@ -161,13 +161,3 @@ warehouse-analytics-dashboard
 - Warehouse Zone
 
 ---
-
-## 👨‍💻 Author
-
-**SATHISHKUMAR K**
-
-Aspiring Data Analyst
-
-LinkedIn: Add your LinkedIn profile link
-
-GitHub: Add your GitHub profile link
