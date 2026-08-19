@@ -57,7 +57,7 @@ This page provides a complete overview of warehouse performance.
 - KPI monitoring
 - Interactive filtering using slicers
 
-![Warehouse Analytics Dashboard](Screenshots/dashboard_overview.png)
+![Warehouse Analytics Dashboard](Warehouse_Analytics_Dashboard/Screenshots/dashboard_overview.png)
 
 ---
 
